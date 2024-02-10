@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co2103.hw1.PreparationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-09T16:14:35" hostname="Olivers-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="userDefined()" classname="co2103.hw1.PreparationTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
